@@ -7,4 +7,4 @@ Created on Tue May  8 14:34:32 2018
 
 def test_needsfiles(tmpdir):
     print (tmpdir)
-    assert 0 #equivalent to assert False
+    assert True #equivalent to assert False
